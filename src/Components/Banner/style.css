@@ -1,0 +1,16 @@
+.list-movie {
+    box-shadow: 0 0 10px rgb(0 0 0 / 30%);
+    margin: auto;
+}
+.select-one option{
+    /* border: 20px solid gray; */
+    /* background-color: gray; */
+}
+/* .jss271::after {
+    width: 1px;
+    height: 20%;
+    content: '';
+    display: block;
+    position: absolute;
+    background-color: #eeeeee;
+} */
